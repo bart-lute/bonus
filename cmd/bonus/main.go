@@ -220,3 +220,7 @@ func postSlackMessage(product myProduct) error {
 
 	return nil
 }
+
+func foobar() {
+	fmt.Println("foobar")
+}

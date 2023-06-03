@@ -1,5 +1,5 @@
-.idea
-.env
-bonus
-bonus.iml
-products.json
+/.idea
+/.env
+/target
+/bonus.iml
+/products.json
